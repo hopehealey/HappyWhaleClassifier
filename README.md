@@ -3,5 +3,5 @@
 In this assignment, we will create a classifier for whales based on the Happy Whale Kaggle competition.
 
 Due dates:
-Part 1 and 2: Feb 27th
-Part 3: March 6th
+-Part 1 and 2: Feb 27th
+-Part 3: March 6th
